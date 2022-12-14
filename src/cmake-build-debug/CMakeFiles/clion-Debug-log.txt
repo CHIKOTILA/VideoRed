@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Applications/Новая папка/C++/VideoRed/src" -B "/Applications/Новая папка/C++/VideoRed/src/cmake-build-debug"
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Including Cocoa support
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Applications/Новая папка/C++/VideoRed/src/cmake-build-debug

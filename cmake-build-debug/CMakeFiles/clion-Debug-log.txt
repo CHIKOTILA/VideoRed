@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Applications/Новая папка/C++/VideoRed Select CMakeLists.txt
